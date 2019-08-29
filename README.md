@@ -1,16 +1,16 @@
 # python
 
 ## virtualenv
-
 ###  版本 
 virtualenv --version
 ### 安装
 pip3 install virtualenv
 
-## vir
-
-* use1
-* use2
+## vir123
+###  use1
+virtualenv --version
+### use2
+pip3 install virtualenv
 
 # linux
 
