@@ -1,13 +1,12 @@
-# hhhh
-## python
+# python
 
-### virtualenv
+## virtualenv
 
-#### url
+### url
 
 detail.md
 
-#### usage
+### usage
 
     版本: virtualenv --version
     安装: pip3 install virtualenv
@@ -15,3 +14,13 @@ detail.md
     激活虚拟环境: source venv/bin/activate
     退出虚拟环境: deactivate
     删除虚拟环境: rmvirtualenv venv
+    
+# linux
+
+## ps
+### url
+detail.md
+
+### usage
+
+   查看进程：ps
