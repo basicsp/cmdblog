@@ -1,9 +1,0 @@
-{
-    "detail": "detail.md",
-    "不带任何依赖的安装虚拟环境": "virtualenv --no-site-packages venv-name",
-    "安装": "pip3 install virtualenv",
-    "版本": "virtualenv --version",
-    "激活虚拟环境": "source venv/bin/activate",
-    "退出虚拟环境": "deactivate",
-    "删除虚拟环境": "rmvirtualenv venv",
-}
