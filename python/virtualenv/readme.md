@@ -1,4 +1,12 @@
-参考网址:
+# Summary
+
+##  版本 
+virtualenv --version
+## 安装
+pip3 install virtualenv
+
+
+# Usage
 
 https://www.jianshu.com/p/d84950dd99a6
 
