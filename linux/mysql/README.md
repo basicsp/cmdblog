@@ -1,5 +1,9 @@
 # Summary
 
+## url
+
+https://www.runoob.com/linux/mysql-install-setup.html
+
 ## 登录mysql
 
 mysql -u robotlocal -p

@@ -1,6 +1,15 @@
 # Summary
 
+url
+
+https://www.runoob.com/linux/linux-comm-ps.html
+
+url2
+
+https://www.cnblogs.com/weifeng1463/p/8807849.html
+
 ##  查看xx进程启动的精确时间和启动后所流逝的时间
+
 ps -eo pid,lstart,etime,cmd | grep 
 ## 常用方式1
 ps aux | grep 
