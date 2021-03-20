@@ -2,6 +2,11 @@
 
 ##  url 
 xxx
+
+## 重新安装pip
+
+python -m ensurepip
+
 ## 升级pip本身
 
 pip3 upgrade pip
